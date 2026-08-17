@@ -1,6 +1,12 @@
 # MicroSpotlight Tap
 
-## How do I install these formulae?
+## Install OpenHarness
+
+```sh
+brew install --cask microspotlight/tap/openharness
+```
+
+## How do I install other formulae?
 
 `brew install microspotlight/tap/<formula>`
 
